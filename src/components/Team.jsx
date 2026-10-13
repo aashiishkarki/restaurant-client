@@ -6,7 +6,7 @@ const Team = () => {
         <div className="heading_section">
           <h1 className="heading">OUR TEAM</h1>
           <p>
-            विभिन्न कुराहरूका कारण उत्पन्न हुने समस्याहरू, जसमा मानिसहरू अलमलमा पर्छन्। उनीहरूका भनाइहरू, प्रयासहरू र कठिनाइहरूका बाबजुद पनि, धेरै कुराहरू सहनुपर्ने अवस्था आउँछ।
+            Dedicated team serving with love
           </p>
         </div>
         <div className="team_container">
